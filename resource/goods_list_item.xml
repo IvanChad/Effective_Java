@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GoodsList>
+    <GoodsType name="COA" description="">
+        <Goods name="A">
+            <item name="servingSize" value="100"/>
+            <item name="servings" value="100"/>
+            <item name="calories" value="130"/>
+            <item name="fat" value="10"/>
+        </Goods>
+        <Goods name="B">
+            <item name="servingSize" value="140"/>
+            <item name="servings" value="14"/>
+            <item name="calories" value="60"/>
+            <item name="sodium" value="2"/>
+            <item name="carbohydrate" value="3"/>
+        </Goods>
+    </GoodsType>
+    <GoodsType name="COB">
+        <Goods name="A">
+            <item name="servingSize" value="80"/>
+            <item name="servings" value="80"/>
+            <item name="calories" value="90"/>
+            <item name="fat" value="10"/>
+        </Goods>
+        <Goods name="B">
+            <item name="servingSize" value="160"/>
+            <item name="servings" value="20"/>
+            <item name="calories" value="60"/>
+            <item name="sodium" value="2"/>
+            <item name="carbohydrate" value="3"/>
+        </Goods>
+    </GoodsType>
+</GoodsList>
